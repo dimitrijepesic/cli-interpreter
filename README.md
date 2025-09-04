@@ -25,23 +25,18 @@ cmake --build build
 
 # Usage Examples
 
-**Print text and pipe into word count** :
+**Print text and pipe into word count:**  
+  - echo "hello world" | wc -w
 
-echo "hello world" | wc -w
+**Save current time to a file:**  
+  - time > time.txt
 
-**Save current time to a file** :
+**Display first 5 lines of a file:**  
+  - head -n5 file.txt
 
-time > time.txt
-
-**Display first 5 lines of a file** :
-
-head -n5 file.txt
-
-**Create and truncate files** :
-
-touch notes.txt
-
-truncate notes.txt
+**Create and truncate files:**  
+  - touch notes.txt
+  - truncate notes.txt
 
 # Structure
 
