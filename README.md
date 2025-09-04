@@ -40,11 +40,10 @@ cmake --build build
 
 # Structure
 
-include/        # Header files
-src/            # Implementation (.cpp files)
-tests/          # (optional) Unit tests
-CMakeLists.txt  # Build configuration
-README.md
-.gitignore
-LICENSE
-
+- include/        # Header files  
+- src/            # Implementation (.cpp files)  
+- tests/          # (optional) Unit tests  
+- CMakeLists.txt  # Build configuration  
+- README.md  
+- .gitignore  
+- LICENSE  
