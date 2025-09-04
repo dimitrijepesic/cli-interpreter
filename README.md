@@ -40,6 +40,7 @@ head -n5 file.txt
 **Create and truncate files** :
 
 touch notes.txt
+
 truncate notes.txt
 
 # Structure
