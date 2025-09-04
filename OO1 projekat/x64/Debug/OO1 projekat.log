@@ -1,0 +1,17 @@
+﻿  Batch.cpp
+  CLI.cpp
+  Command.cpp
+  Date.cpp
+  Echo.cpp
+  Head.cpp
+  Parser.cpp
+  Prompt.cpp
+  Rm.cpp
+  Time.cpp
+  Touch.cpp
+  Tr.cpp
+  Truncate.cpp
+  Wc.cpp
+  main.cpp
+  Generating Code...
+  OO1 projekat.vcxproj -> C:\Users\dimit\OneDrive\Desktop\OO1 final no AI\OO1 projekat\x64\Debug\OO1 projekat.exe
